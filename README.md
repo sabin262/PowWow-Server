@@ -1,5 +1,4 @@
-# PowWow-Server
-Ideally run on XAMPP server
+# POWWOW Server and Client 
   - Consists of a server in PHP and client in Android
   - Basic database connection through android
   - Database export present in PHP Server/web_services/event_info.sql
